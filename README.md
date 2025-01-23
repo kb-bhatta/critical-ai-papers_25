@@ -1,4 +1,4 @@
-# Critical AI Papers, ASO 2021
+# Critical / Seminal AI Papers, ASO 2015-2025
 Collection of AI Papers of note for ease of reference. 
 
 Pivotal papers including Transformers Architecture (Attention is All You Need), Early ChatGPT papers, Chain of Thought, etc.
