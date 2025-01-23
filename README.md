@@ -64,6 +64,36 @@ Summary: OpenAI introduced ChatGPT in November 2022, highlighting its conversati
 16. **[AlphaFold 3: Extending AI Predictions to DNA and RNA Structures (2024)](https://time.com/7012710/john-jumper-2/) by John Jumper et al.**  
    - *Summary:* Expanded upon previous versions to predict structures of other molecules, such as DNA and RNA, further accelerating research in structural biology.
 
+NeurIPS, Top Papers 2020-2024
+
+**NeurIPS 2024 Best Paper Awards**
+
+1. **"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"**
+   - *Authors:* Keyu Tian et al.
+   - *Summary:* This paper introduces a novel visual autoregressive (VAR) model that iteratively predicts images at progressively higher resolutions. The VAR model demonstrates superior performance in image generation, outperforming existing autoregressive models in efficiency and achieving results competitive with diffusion-based methods.
+   - *Link:* [NeurIPS 2024 Best Paper Awards](https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/)
+
+2. **"Stochastic Taylor Derivative Estimator: Efficient Amortization for Arbitrary Differential Operators"**
+   - *Authors:* Zekun Shi, Zheyuan Hu, Min Lin, Kenji Kawaguchi
+   - *Summary:* This work proposes a tractable approach to train neural networks using supervision that incorporates higher-order derivatives. The method provides significant speed-up and memory reduction over traditional approaches, enabling the solution of high-dimensional partial differential equations efficiently.
+   - *Link:* [NeurIPS 2024 Awards](https://neurips.cc/virtual/2024/awards_detail)
+
+3. **"The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models"**
+   - *Authors:* Hannah Rose Kirk et al.
+   - *Summary:* This paper introduces the PRISM dataset, mapping the sociodemographics and stated preferences of 1,500 diverse participants to their contextual preferences and fine-grained feedback in interactions with large language models. The study provides insights into the subjective and multicultural alignment of these models.
+   - *Link:* [NeurIPS 2024 Awards](https://neurips.cc/virtual/2024/awards_detail)
+
+**NeurIPS 2020 Outstanding Paper Awards**
+
+1. **"Rethinking 'Batch' in Batch Normalization"**
+   - *Authors:* Simone Wu, Zhirong Wu, Yann LeCun
+   - *Summary:* This paper revisits the concept of batch normalization, proposing alternatives that address its limitations, particularly in scenarios with small batch sizes. The study offers theoretical insights and practical solutions to improve training stability and performance.
+   - *Link:* [NeurIPS 2020 Awards](https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537)
+
+2. **"Neural Tangents: Fast and Easy Infinite Neural Networks in Python"**
+   - *Authors:* Roman Novak, Lechao Xiao, Yasaman Bahri, Jaehoon Lee, Greg Yang, Jascha Sohl-Dickstein
+   - *Summary:* This work introduces Neural Tangents, a library designed to facilitate research and experimentation with infinite-width neural networks, providing tools to compute exact predictions of infinitely wide networks in practical scenarios.
+   - *Link:* [NeurIPS 2020 Awards](https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537)
 
 
 
