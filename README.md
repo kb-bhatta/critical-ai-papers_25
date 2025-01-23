@@ -55,5 +55,15 @@ Summary: OpenAI introduced ChatGPT in November 2022, highlighting its conversati
    - *Summary:* Announced the release of ChatGPT, a conversational AI model fine-tuned using Reinforcement Learning from Human Feedback (RLHF), capable of handling follow-up questions, admitting mistakes, and rejecting inappropriate requests. Released as a research preview to gather feedback and improve capabilities.  
    - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
 
+14. **[NeuralGCM: AI-Assisted Weather and Climate Forecasting (2024)](https://www.ft.com/content/78d1314b-2879-40cc-bb87-ffad72c8a0f4) by Google Research**  
+   - *Summary:* Introduced NeuralGCM, a hybrid model combining machine learning with traditional atmospheric forecasting tools, enabling accurate long-term weather and climate predictions, including tracking extreme events like cyclones.
+
+15. **[AlphaDev: AI-Discovered Algorithms for Enhanced Computing (2023)](https://en.wikipedia.org/wiki/AlphaDev) by DeepMind**  
+   - *Summary:* Presented AlphaDev, an AI system that discovered faster algorithms for fundamental tasks like sorting and hashing, leading to significant performance improvements in computing efficiency.
+
+16. **[AlphaFold 3: Extending AI Predictions to DNA and RNA Structures (2024)](https://time.com/7012710/john-jumper-2/) by John Jumper et al.**  
+   - *Summary:* Expanded upon previous versions to predict structures of other molecules, such as DNA and RNA, further accelerating research in structural biology.
+
+
 
 
