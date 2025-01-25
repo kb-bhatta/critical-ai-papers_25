@@ -31,8 +31,8 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
 
 6. **"AlphaMissense: AI System for Predicting the Pathogenicity of Genetic Variants" (2024) by Pushmeet Kohli et al.**
    - *Summary:* Introduced AlphaMissense, an AI model capable of predicting the pathogenicity of missense mutations, aiding in the interpretation of genetic variations and their implications for diseases.
-   - *Link:* [AlphaMissense: AI System for Predicting the Pathogenicity of Genetic Variants](https://www.nature.com/articles/s41586-024-05732-7)([PDF2](https://www.nature.com/articles/s41597-024-03327-8) )
-   - PDF in Repo: [PDF---]()
+   - *Link:* [Accurate proteome-wide missense variant effect prediction with AlphaMissense](https://www.science.org/doi/10.1126/science.adg7492)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Alpha-Disease%2Bscience.adg7492.pdf)
 
 7. **"Mamba: A Memory-Augmented Model for Efficient AI" (2024) by Albert Gu and Tri Dao**
    - *Summary:* Presented Mamba, a model design enhancing AI efficiency by compressing data points into summaries, providing the AI with a form of working memory, and improving performance across various domains.
