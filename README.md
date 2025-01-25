@@ -16,12 +16,12 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
 3. **"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" (2018) by Jacob Devlin et al.**
    - *Summary:* Introduced BERT, a model pre-trained on vast text corpora to understand language context bidirectionally, setting new benchmarks in multiple NLP tasks.
    - *Link:* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
-   - PDF in Repo: [PDF]()
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/BERT_1810.04805v2.pdf)
 
-4. **"AlphaFold 2 and the Future of AI-Assisted Protein Structure Prediction" (2020) by John Jumper et al.**
+4. **"AlphaFold 2 and the Future of AI-Assisted Protein Structure Prediction" (2023) by John Jumper et al.**
    - *Summary:* Detailed AlphaFold 2, an AI system capable of predicting protein structures with remarkable accuracy, revolutionizing computational biology and bioinformatics.
-   - *Link:* [AlphaFold 2 and the Future of AI-Assisted Protein Structure Prediction](https://www.nature.com/articles/s41586-021-03819-2)
-   - PDF in Repo: [PDF]()
+   - *Link:* [AlphaFold 2 and the Future of AI-Assisted Protein Structure Prediction](https://www.nature.com/articles/s41392-023-01381-z)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/AlphaFold2_s41392-023-01381-z.pdf)
 
 5. **"Scaling Vision Transformers to 22 Billion Parameters" (2024) by Xianzhi Du et al.**
    - *Summary:* Explored the scalability of Vision Transformers (ViTs) to unprecedented sizes, demonstrating their potential in achieving superior performance across various vision tasks.
@@ -30,7 +30,7 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
 
 6. **"AlphaMissense: AI System for Predicting the Pathogenicity of Genetic Variants" (2024) by Pushmeet Kohli et al.**
    - *Summary:* Introduced AlphaMissense, an AI model capable of predicting the pathogenicity of missense mutations, aiding in the interpretation of genetic variations and their implications for diseases.
-   - *Link:* [AlphaMissense: AI System for Predicting the Pathogenicity of Genetic Variants](https://www.nature.com/articles/s41586-024-05732-7)
+   - *Link:* [AlphaMissense: AI System for Predicting the Pathogenicity of Genetic Variants](https://www.nature.com/articles/s41586-024-05732-7)([PDF2](https://www.nature.com/articles/s41597-024-03327-8) )
    - PDF in Repo: [PDF]()
 
 7. **"Mamba: A Memory-Augmented Model for Efficient AI" (2024) by Albert Gu and Tri Dao**
@@ -79,6 +79,11 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
 16. **[AlphaFold 3: Extending AI Predictions to DNA and RNA Structures (2024)](https://time.com/7012710/john-jumper-2/) by John Jumper et al.**  
    - *Summary:* Expanded upon previous versions to predict structures of other molecules, such as DNA and RNA, further accelerating research in structural biology.
    - PDF in Repo: [PDF]()
+
+17. **"Highly accurate protein structure prediction with AlphaFold" (2021) by John Jumper et al.**
+   - * Underpinning the latest version of AlphaFold is a novel machine learning approach that incorporates physical and biological knowledge about protein structure, leveraging multi-sequence alignments, into the design of the deep learning algorithm.*
+   - Link:* [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/AlphaFold_s41586-021-03819-2.pdf)
 
 NeurIPS, Top Papers 2020-2024
 
