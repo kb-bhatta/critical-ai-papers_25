@@ -1,6 +1,6 @@
 # Seminal AI Papers, ASO 2015-2025
-Collection of Critical AI Papers of note for ease of reference to prior reading and research.
---Order is in papers read/finished, not by timeline nor indicative of relative importance.-- 
+Collection of Critical AI Papers and research.
+__Order is of papers read/finished, not indicative of their timeline nor relative importance.__
 
 Pivotal papers including Transformers Architecture (Attention is All You Need), Early ChatGPT papers, Chain of Thought, etc.
 
@@ -27,7 +27,7 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
 5. **"Scaling Vision Transformers to 22 Billion Parameters" (2024) by Xianzhi Du et al.**
    - *Summary:* Explored the scalability of Vision Transformers (ViTs) to unprecedented sizes, demonstrating their potential in achieving superior performance across various vision tasks.
    - *Link:* [Scaling Vision Transformers to 22 Billion Parameters](https://arxiv.org/abs/2302.05442)
-   - PDF in Repo: [PDF]()
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/ScalingVision_2302.05442v1.pdf)
 
 6. **"AlphaMissense: AI System for Predicting the Pathogenicity of Genetic Variants" (2024) by Pushmeet Kohli et al.**
    - *Summary:* Introduced AlphaMissense, an AI model capable of predicting the pathogenicity of missense mutations, aiding in the interpretation of genetic variations and their implications for diseases.
