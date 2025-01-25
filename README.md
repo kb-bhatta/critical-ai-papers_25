@@ -36,8 +36,8 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
 
 7. **"Mamba: A Memory-Augmented Model for Efficient AI" (2024) by Albert Gu and Tri Dao**
    - *Summary:* Presented Mamba, a model design enhancing AI efficiency by compressing data points into summaries, providing the AI with a form of working memory, and improving performance across various domains.
-   - *Link:* [Mamba: A Memory-Augmented Model for Efficient AI](https://arxiv.org/abs/2401.12345)
-   - PDF in Repo: [PDF---]()
+   - *Link:* [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Mamba_2312.00752v2.pdf)
 
 8. **"Liquid Neural Networks: A New Approach to AI Model Flexibility" (2024) by Ramin Hasani et al.**
    - *Summary:* Introduced liquid neural networks, where neurons adapt over time through linked equations, resulting in models that are more flexible and capable of learning post-training, with applications in various fields.
