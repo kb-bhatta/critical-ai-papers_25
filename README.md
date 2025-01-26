@@ -19,73 +19,75 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Link:* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/BERT_1810.04805v2.pdf)
 
-4. **"AlphaFold 2 and the Future of AI-Assisted Protein Structure Prediction" (2023) by John Jumper et al.**
-   - *Summary:* Detailed AlphaFold 2, an AI system capable of predicting protein structures with remarkable accuracy, revolutionizing computational biology and bioinformatics.
-   - *Link:* [AlphaFold 2 and the Future of AI-Assisted Protein Structure Prediction](https://www.nature.com/articles/s41392-023-01381-z)
-   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/AlphaFold2_s41392-023-01381-z.pdf)
-
-5. **"Scaling Vision Transformers to 22 Billion Parameters" (2024) by Xianzhi Du et al.**
+4. **"Scaling Vision Transformers to 22 Billion Parameters" (2024) by Xianzhi Du et al.**
    - *Summary:* Explored the scalability of Vision Transformers (ViTs) to unprecedented sizes, demonstrating their potential in achieving superior performance across various vision tasks.
    - *Link:* [Scaling Vision Transformers to 22 Billion Parameters](https://arxiv.org/abs/2302.05442)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/ScalingVision_2302.05442v1.pdf)
 
-6. **"AlphaMissense: AI System for Predicting the Pathogenicity of Genetic Variants" (2024) by Pushmeet Kohli et al.**
+5. **"AlphaMissense: AI System for Predicting the Pathogenicity of Genetic Variants" (2024) by Pushmeet Kohli et al.**
    - *Summary:* Introduced AlphaMissense, an AI model capable of predicting the pathogenicity of missense mutations, aiding in the interpretation of genetic variations and their implications for diseases.
    - *Link:* [Accurate proteome-wide missense variant effect prediction with AlphaMissense](https://www.science.org/doi/10.1126/science.adg7492)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Alpha-Disease%2Bscience.adg7492.pdf)
 
-7. **"Mamba: A Memory-Augmented Model for Efficient AI" (2024) by Albert Gu and Tri Dao**
+6. **"Mamba: A Memory-Augmented Model for Efficient AI" (2024) by Albert Gu and Tri Dao**
    - *Summary:* Presented Mamba, a model design enhancing AI efficiency by compressing data points into summaries, providing the AI with a form of working memory, and improving performance across various domains.
    - *Link:* [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Mamba_2312.00752v2.pdf)
 
-8. **"Liquid Neural Networks: A New Approach to AI Model Flexibility" (2024) by Ramin Hasani et al.**
+7. **"Liquid Neural Networks: A New Approach to AI Model Flexibility" (2020) by Ramin Hasani et al.**
    - *Summary:* Introduced liquid neural networks, where neurons adapt over time through linked equations, resulting in models that are more flexible and capable of learning post-training, with applications in various fields.
-   - *Link:* [Liquid Neural Networks: A New Approach to AI Model Flexibility](https://arxiv.org/abs/2401.67890)
-   - PDF in Repo: [PDF---]()
+   - *Link:* [Liquid Time-constant Networks](https://arxiv.org/abs/2006.04439)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Liquid_2006.04439v4.pdf)
 
-9. **GPT-3 Release via OpenAI**
+8. **GPT-3 Release via OpenAI**
 **"Language Models are Few-Shot Learners" (2020) by Tom B. Brown et al.**  
    - *Summary:* Introduced GPT-3, a 175-billion parameter autoregressive language model capable of performing diverse natural language processing tasks without explicit fine-tuning, demonstrating strong performance in translation, question-answering, and more through few-shot learning.  
    - *Link:* [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/FewShot-GPT_2005.14165v4.pdf)
 
-10. **"Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" (2022) by Jason Wei et al.**  
+9. **"Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" (2022) by Jason Wei et al.**  
    - *Summary:* Demonstrated that prompting large language models with a chain of thought—a series of intermediate reasoning steps—significantly enhances their ability to perform complex reasoning tasks, leading to improved performance in arithmetic, commonsense, and symbolic reasoning.  
    - *Link:* [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/CoT_Responses_2201.11903v6.pdf)
 
-11. **"Self-Consistency Improves Chain of Thought Reasoning in Language Models" (2022) by Xuezhi Wang et al.**  
+10. **"Self-Consistency Improves Chain of Thought Reasoning in Language Models" (2022) by Xuezhi Wang et al.**  
    - *Summary:* Proposed a new decoding strategy called self-consistency, which samples multiple reasoning paths and selects the most consistent answer, further enhancing the performance of chain-of-thought prompting in large language models across various reasoning benchmarks.  
    - *Link:* [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Self-Consistency_CoT_2203.11171v4.pdf)
 
-12. **"The Lottery Ticket Hypothesis" (2019) by Jonathan Frankle et al"**  
+11. **"The Lottery Ticket Hypothesis" (2019) by Jonathan Frankle et al"**  
    - *Summary:* The paper presents the "lottery ticket hypothesis," which suggests that within large neural networks exist smaller, sparse subnetworks that, when initialized correctly, can achieve comparable performance to the full network.
    - *Link:* [The Lottery Ticket Hypothesis (2019)](https://arxiv.org/abs/1803.03635)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/LotteryTicketHypothesis_1803.03635v5.pdf)
 
-13. **"On Calibration of Modern Neural Networks" (2017) by Chuan Guo et al**  
+12. **"On Calibration of Modern Neural Networks" (2017) by Chuan Guo et al**  
    - *Summary:*  The study examines the reliability of neural networks' confidence estimates, revealing that while modern networks achieve high accuracy, they tend to be poorly calibrated, leading to overconfidence in incorrect predictions.
    - *Link:* [On Calibration of Modern Neural Networks (2017)](https://arxiv.org/abs/1706.04599)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Calibration-Modern-NN_1706.04599v2.pdf)
 
-14. **[NeuralGCM: AI-Assisted Weather and Climate Forecasting (2024)](https://www.ft.com/content/78d1314b-2879-40cc-bb87-ffad72c8a0f4) by Google Research**  
+13. **[NeuralGCM: AI-Assisted Weather and Climate Forecasting (2024)](https://www.ft.com/content/78d1314b-2879-40cc-bb87-ffad72c8a0f4) by Google Research**  
    - *Summary:* Introduced NeuralGCM, a hybrid model combining machine learning with traditional atmospheric forecasting tools, enabling accurate long-term weather and climate predictions, including tracking extreme events like cyclones.
-   - PDF in Repo: [PDF---]()
+   - PDF in Repo: [PDF]()
 
-15. **[AlphaDev: AI-Discovered Algorithms for Enhanced Computing (2023)](https://en.wikipedia.org/wiki/AlphaDev) by DeepMind**  
+14. **[AlphaDev: AI-Discovered Algorithms for Enhanced Computing (2023)](https://en.wikipedia.org/wiki/AlphaDev) by DeepMind**  
    - *Summary:* Presented AlphaDev, an AI system that discovered faster algorithms for fundamental tasks like sorting and hashing, leading to significant performance improvements in computing efficiency.
-   - PDF in Repo: [PDF---]()
+   - PDF in Repo: [PDF]()
 
-16. **[AlphaFold 3: Extending AI Predictions to DNA and RNA Structures (2024)](https://time.com/7012710/john-jumper-2/) by John Jumper et al.**  
-   - *Summary:* Expanded upon previous versions to predict structures of other molecules, such as DNA and RNA, further accelerating research in structural biology.
-   - PDF in Repo: [PDF---]()
-
-17. **"Highly accurate protein structure prediction with AlphaFold" (2021) by John Jumper et al.**
+15.**"Highly accurate protein structure prediction with AlphaFold" (2021) by John Jumper et al.**
    - * Underpinning the latest version of AlphaFold is a novel machine learning approach that incorporates physical and biological knowledge about protein structure, leveraging multi-sequence alignments, into the design of the deep learning algorithm.*
    - Link:* [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/AlphaFold_s41586-021-03819-2.pdf)
+
+16. **"AlphaFold 2 and the Future of AI-Assisted Protein Structure Prediction" (2023) by John Jumper et al.**
+   - *Summary:* Detailed AlphaFold 2, an AI system capable of predicting protein structures with remarkable accuracy, revolutionizing computational biology and bioinformatics.
+   - *Link:* [AlphaFold 2 and the Future of AI-Assisted Protein Structure Prediction](https://www.nature.com/articles/s41392-023-01381-z)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/AlphaFold2_s41392-023-01381-z.pdf)
+
+17.**AlphaFold 3: Extending AI Predictions to DNA and RNA Structures (2024) by John Jumper et al.**  
+   - *Summary:* Expanded upon previous versions like AlphaFold 2, to predict structures of other molecules, such as DNA and RNA, further accelerating research in structural biology and protein folding. Together, these results show that high-accuracy modelling across biomolecular space is possible within a single unified deep-learning framework.
+   - *Link:* [Nature: Accurate structure prediction of biomolecular interactions with AlphaFold 3 (2024)](https://www.nature.com/articles/s41586-024-07487-w)
+   - *Link:* [Time: John Jumper - Time 100](https://time.com/7012710/john-jumper-2)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/AlphaFold3_s41586-024-07487-w.pdf)
 
 18. **"The performance of AlphaMissense to identify genes influencing disease" (2024) by J. Brent Richards et al.**
    - *Summary:* Introduced AlphaMissense, an AI model capable of predicting the pathogenicity of missense mutations, aiding in the interpretation of genetic variations and their implications for diseases.
