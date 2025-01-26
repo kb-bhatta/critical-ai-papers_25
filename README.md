@@ -92,35 +92,35 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Link:* [The performance of AlphaMissense to identify genes influencing disease](https://www.sciencedirect.com/science/article/pii/S2666247724000848)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/AlphaMissense-Genes_S2666247724000848.pdf)
 
-19. **"---*  
-   - *Summary:* 
-   - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
-   - PDF in Repo: [PDF---]()
+19. **"Understanding Chain-of-Thought Prompting" (2022) by Boshi Wang et al**  
+   - *Summary:* This paper explores how chain-of-thought (CoT) prompting improves reasoning capabilities in large language models by breaking down complex problems into intermediate steps, helping models achieve higher performance in reasoning tasks.
+   - *Link:* [Understanding Chain-of-Thought Prompting (2022)](https://arxiv.org/abs/2212.10001)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Understanding-CoT_2212.10001v2.pdf)
 
-20. **"----**  
-   - *Summary:*  
-   - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
-   - PDF in Repo: [PDF---]()
+20. **"Class Imbalance and Deep Learning" (2017) by Mateusz Buda**  
+   - *Summary:* This paper analyzes the impact of class imbalance on deep neural networks, highlighting how imbalance can significantly degrade performance and proposing techniques to mitigate its effects.
+   - *Link:* [Class Imbalance and Deep Learning (2017)](https://arxiv.org/abs/1710.05381)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Class-Imbalance_NN_1710.05381v2.pdf)
 
-21. **"---*  
-   - *Summary:* 
-   - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
-   - PDF in Repo: [PDF---]()
+21. **"Dopamine: A Reinforcement Learning Framework" (2020) by Will Daney et al**  
+   - *Summary:* Dopamine is an RL research framework designed to support rapid prototyping and experimentation with value-based deep reinforcement learning algorithms, offering a flexible and lightweight solution for research purposes.
+   - *Link:* [Dopamine: A Reinforcement Learning Framework (2020)](https://pubmed.ncbi.nlm.nih.gov/31942076/)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Dopamine_RL_Dabney-2020-supp.pdf)
 
-22. **"----**  
-   - *Summary:*  
-   - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
-   - PDF in Repo: [PDF---]()
+22. **"Scaling Laws and Compute Efficiency" (2022) by Jordan Hoffman et al**  
+   - *Summary:* DeepMind investigates how model performance scales with compute, data, and parameter size, offering key insights into optimizing AI training efficiency and predicting future capabilities.
+   - *Link:* [DeepMind Scaling Laws and Compute Efficiency (2022)](https://arxiv.org/abs/2203.15556)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/DeepMind-TrainCompute_2203.15556v1.pdf)
 
-23. **"---*  
-   - *Summary:* 
-   - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
-   - PDF in Repo: [PDF---]()
+23. **"DeepSeek Model Overview - R1" (2024) by Daya Guo et al**  
+   - *Summary:* This report outlines the development and performance of DeepSeek, a large-scale AI model, detailing its architecture, training strategies, and potential applications across various domains.
+   - *Link:* [DeepSeek Model Overview (2024)](https://arxiv.org/html/2501.12948v1)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/DeepSeek_R1.pdf)
 
 24. **"----**  
    - *Summary:*  
-   - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
-   - PDF in Repo: [PDF---]()
+   - *Link:* [Name](https://link.com)
+   - PDF in Repo: [PDF---](https://github.com/link)
 
 NeurIPS, Top Papers 2020-2024
 **NeurIPS 2024 Best Paper Awards**
@@ -142,6 +142,12 @@ NeurIPS, Top Papers 2020-2024
    - *Summary:* This paper introduces the PRISM dataset, mapping the sociodemographics and stated preferences of 1,500 diverse participants to their contextual preferences and fine-grained feedback in interactions with large language models. The study provides insights into the subjective and multicultural alignment of these models.
    - *Link:* [NeurIPS 2024 Awards](https://neurips.cc/virtual/2024/awards_detail)
    - PDF in Repo: [PDF---]()
+
+**NeurIPS 2023 Best Paper Awards**
+
+**NeurIPS 2022 Best Paper Awards**
+
+**NeurIPS 2021 Best Paper Awards**
 
 **NeurIPS 2020 Outstanding Paper Awards**
 
