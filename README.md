@@ -59,15 +59,14 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Summary:* Proposed a new decoding strategy called self-consistency, which samples multiple reasoning paths and selects the most consistent answer, further enhancing the performance of chain-of-thought prompting in large language models across various reasoning benchmarks.  
    - *Link:* [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
    - PDF in Repo: [PDF---]()
-  
-12. "ChatGPT: Optimizing Language Models for Dialogue," published on November 30, 2022
-   - Summary: OpenAI introduced ChatGPT in November 2022, highlighting its conversational abilities, including answering follow-up questions, admitting mistakes, and rejecting inappropriate requests. It was trained using Reinforcement Learning from Human Feedback (RLHF), similar to InstructGPT. OpenAI launched ChatGPT as a research preview to gather user feedback on its strengths and limitations. The model demonstrates capabilities in coding assistance, general knowledge, and ethical content moderatio
-   - PDF in Repo: [PDF---]()
 
- 14. **"Introducing ChatGPT" (2022) by OpenAI**  
-   - *Summary:* Announced the release of ChatGPT, a conversational AI model fine-tuned using Reinforcement Learning from Human Feedback (RLHF), capable of handling follow-up questions, admitting mistakes, and rejecting inappropriate requests. Released as a research preview to gather feedback and improve capabilities.  
+12. **"---*  
+   - *Summary:* 
    - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
-   - PDF in Repo: [PDF---]()
+
+13. **"----**  
+   - *Summary:*  
+   - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
 
 14. **[NeuralGCM: AI-Assisted Weather and Climate Forecasting (2024)](https://www.ft.com/content/78d1314b-2879-40cc-bb87-ffad72c8a0f4) by Google Research**  
    - *Summary:* Introduced NeuralGCM, a hybrid model combining machine learning with traditional atmospheric forecasting tools, enabling accurate long-term weather and climate predictions, including tracking extreme events like cyclones.
