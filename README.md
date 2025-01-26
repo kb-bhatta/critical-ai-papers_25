@@ -48,7 +48,7 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
 **"Language Models are Few-Shot Learners" (2020) by Tom B. Brown et al.**  
    - *Summary:* Introduced GPT-3, a 175-billion parameter autoregressive language model capable of performing diverse natural language processing tasks without explicit fine-tuning, demonstrating strong performance in translation, question-answering, and more through few-shot learning.  
    - *Link:* [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
-   - PDF in Repo: [PDF---]()
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/FewShot-GPT_2005.14165v4.pdf)
 
 10. **"Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" (2022) by Jason Wei et al.**  
    - *Summary:* Demonstrated that prompting large language models with a chain of thought—a series of intermediate reasoning steps—significantly enhances their ability to perform complex reasoning tasks, leading to improved performance in arithmetic, commonsense, and symbolic reasoning.  
@@ -58,15 +58,17 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
 11. **"Self-Consistency Improves Chain of Thought Reasoning in Language Models" (2022) by Xuezhi Wang et al.**  
    - *Summary:* Proposed a new decoding strategy called self-consistency, which samples multiple reasoning paths and selects the most consistent answer, further enhancing the performance of chain-of-thought prompting in large language models across various reasoning benchmarks.  
    - *Link:* [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
-   - PDF in Repo: [PDF---]()
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Self-Consistency_CoT_2203.11171v4.pdf)
 
-12. **"---*  
-   - *Summary:* 
-   - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
+12. **"The Lottery Ticket Hypothesis" (2019) by Jonathan Frankle et al"**  
+   - *Summary:* The paper presents the "lottery ticket hypothesis," which suggests that within large neural networks exist smaller, sparse subnetworks that, when initialized correctly, can achieve comparable performance to the full network.
+   - *Link:* [The Lottery Ticket Hypothesis (2019)](https://arxiv.org/abs/1803.03635)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/LotteryTicketHypothesis_1803.03635v5.pdf)
 
-13. **"----**  
-   - *Summary:*  
-   - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
+13. **"On Calibration of Modern Neural Networks" (2017) by Chuan Guo et al**  
+   - *Summary:*  The study examines the reliability of neural networks' confidence estimates, revealing that while modern networks achieve high accuracy, they tend to be poorly calibrated, leading to overconfidence in incorrect predictions.
+   - *Link:* [On Calibration of Modern Neural Networks (2017)](https://arxiv.org/abs/1706.04599)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Calibration-Modern-NN_1706.04599v2.pdf)
 
 14. **[NeuralGCM: AI-Assisted Weather and Climate Forecasting (2024)](https://www.ft.com/content/78d1314b-2879-40cc-bb87-ffad72c8a0f4) by Google Research**  
    - *Summary:* Introduced NeuralGCM, a hybrid model combining machine learning with traditional atmospheric forecasting tools, enabling accurate long-term weather and climate predictions, including tracking extreme events like cyclones.
@@ -90,6 +92,35 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Link:* [The performance of AlphaMissense to identify genes influencing disease](https://www.sciencedirect.com/science/article/pii/S2666247724000848)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/AlphaMissense-Genes_S2666247724000848.pdf)
 
+19. **"---*  
+   - *Summary:* 
+   - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
+   - PDF in Repo: [PDF---]()
+
+20. **"----**  
+   - *Summary:*  
+   - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
+   - PDF in Repo: [PDF---]()
+
+21. **"---*  
+   - *Summary:* 
+   - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
+   - PDF in Repo: [PDF---]()
+
+22. **"----**  
+   - *Summary:*  
+   - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
+   - PDF in Repo: [PDF---]()
+
+23. **"---*  
+   - *Summary:* 
+   - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
+   - PDF in Repo: [PDF---]()
+
+24. **"----**  
+   - *Summary:*  
+   - *Link:* [Introducing ChatGPT](https://openai.com/index/chatgpt/)
+   - PDF in Repo: [PDF---]()
 
 NeurIPS, Top Papers 2020-2024
 **NeurIPS 2024 Best Paper Awards**
@@ -125,6 +156,3 @@ NeurIPS, Top Papers 2020-2024
    - *Summary:* This work introduces Neural Tangents, a library designed to facilitate research and experimentation with infinite-width neural networks, providing tools to compute exact predictions of infinitely wide networks in practical scenarios.
    - *Link:* [NeurIPS 2020 Awards](https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537)
    - PDF in Repo: [PDF---]()
-
-
-
