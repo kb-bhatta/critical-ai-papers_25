@@ -70,13 +70,17 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Link:* [On Calibration of Modern Neural Networks (2017)](https://arxiv.org/abs/1706.04599)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Calibration-Modern-NN_1706.04599v2.pdf)
 
-13. **[NeuralGCM: AI-Assisted Weather and Climate Forecasting (2024)](https://www.ft.com/content/78d1314b-2879-40cc-bb87-ffad72c8a0f4) by Google Research**  
+13. **NeuralGCM: AI-Assisted Weather and Climate Forecasting (2024) by Google Research**
    - *Summary:* Introduced NeuralGCM, a hybrid model combining machine learning with traditional atmospheric forecasting tools, enabling accurate long-term weather and climate predictions, including tracking extreme events like cyclones.
-   - PDF in Repo: [PDF]()
+   - *Link:* [Nature: Neural general circulation models for weather and climate](https://www.nature.com/articles/s41586-024-07744-y)
+   - *Link:* [FT on Weather AI](https://www.ft.com/content/78d1314b-2879-40cc-bb87-ffad72c8a0f4)   
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Neural-GCMs_s41586-024-07744-y.pdf)
 
-14. **[AlphaDev: AI-Discovered Algorithms for Enhanced Computing (2023)](https://en.wikipedia.org/wiki/AlphaDev) by DeepMind**  
+14. **AlphaDev: AI-Discovered Algorithms for Enhanced Computing (2023) by DeepMind**  
    - *Summary:* Presented AlphaDev, an AI system that discovered faster algorithms for fundamental tasks like sorting and hashing, leading to significant performance improvements in computing efficiency.
-   - PDF in Repo: [PDF]()
+   - *Link:* [Nature: Faster sorting algorithms discovered using deep reinforcement learning](https://www.nature.com/articles/s41586-023-06004-9)
+   - *Link:* [AlphaDev on Wiki]https://en.wikipedia.org/wiki/AlphaDev)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/AlphaDev_s41586-023-06004-9.pdf)
 
 15.**"Highly accurate protein structure prediction with AlphaFold" (2021) by John Jumper et al.**
    - * Underpinning the latest version of AlphaFold is a novel machine learning approach that incorporates physical and biological knowledge about protein structure, leveraging multi-sequence alignments, into the design of the deep learning algorithm.*
@@ -145,21 +149,21 @@ NeurIPS, Top Papers 2020-2024
    - *Link:* [NeurIPS 2024 Awards](https://openreview.net/forum?id=J2wI2rCG2u)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Stochastic_Taylor_Deriva_14856.pdf)
   
-- Datasets and Benchmarks Track:
+*- Datasets and Benchmarks Track:*
 3. **"The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models"**
    - *Authors:* Hannah Rose Kirk et al.
    - *Summary:* This paper introduces the PRISM dataset, mapping the sociodemographics and stated preferences of 1,500 diverse participants to their contextual preferences and fine-grained feedback in interactions with large language models. The study provides insights into the subjective and multicultural alignment of these models.
    - *Link:* [NeurIPS 2024 Awards](https://openreview.net/forum?id=DFr5hteojx#discussion)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/The_PRISM_Alignment_Datas_1310.pdf)
  
-- Runner Ups, Main Track
-  4.**"Not All Tokens Are What You Need for Pretraining"**
+*- Runner Ups, Main Track:*
+4.**"Not All Tokens Are What You Need for Pretraining"**
    - *Authors:* Zhenghao Lin et al.
    - *Summary:* This paper presents a simple method to filter pre-training data when training large language models (LLM)
    - *Link:* [NeurIPS 2024, Runner Up](https://openreview.net/forum?id=0NMzBwqaAJ)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Not_All_Tokens_Are_What_Y_5208.pdf)
-  
-  5. **"Guiding a Diffusion Model with a Bad Version of Itself"**
+
+5. **"Guiding a Diffusion Model with a Bad Version of Itself"**
    - *Authors:* Tero Karras et al.
    - *Summary:*  This paper proposes an alternative (Autoguidance) to classifier free guidance (CFG) in the context of text-2-image (T2I) models. CFG is a guidance technique (a correction in diffusion trajectories) that is extensively used by practitioners to obtain better prompt alignment and higher-quality images, that Autoguidance could improve. This change leads to notable improvements in diversity and image quality.
    - *Link:* [NeurIPS 2024 Awards](https://openreview.net/forum?id=bg6fVPVs3s)
