@@ -4,6 +4,11 @@ __Order is of papers read/finished, not indicative of their timeline nor relativ
 
 Pivotal papers including Transformers Architecture (Attention is All You Need), Early ChatGPT papers, Chain of Thought, etc.
 
+0. **"Scaling Laws for Neural Language Models" (2020) by Jared Kaplan et al.**
+   - *Summary:* This paper investigates how the performance of neural language models improves as model size, dataset size, and compute resources increase. The authors establish empirical scaling laws, showing that loss decreases predictably with increased resources following a power-law relationship. (The writers of this paper continued work at OpenAI and later founding Anthropic upon establishing the NL scaling laws, recommending need for GPUs, data, and training.)
+   - *Link:* ["Scaling Laws for Neural Language Models" (2020)](https://arxiv.org/abs/2001.08361)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Scaling_Laws-2001.08361v1.pdf)
+
 1. **"Deep Residual Learning for Image Recognition" (2015) by Kaiming He et al.**
    - *Summary:* Introduced ResNet, a deep convolutional neural network architecture utilizing residual connections, enabling the training of extremely deep networks and achieving state-of-the-art results in image recognition tasks.
    - *Link:* [Deep Residual Learning for Image Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)
@@ -109,9 +114,9 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Link:* [Dopamine: A Reinforcement Learning Framework (2020)](https://pubmed.ncbi.nlm.nih.gov/31942076/)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Dopamine_RL_Dabney-2020-supp.pdf)
 
-22. **"Scaling Laws and Compute Efficiency" (2022) by Jordan Hoffman et al**  
+22. **"Training Compute-Optimal Large Language Models" (2022) by Jordan Hoffman et al**  
    - *Summary:* DeepMind investigates how model performance scales with compute, data, and parameter size, offering key insights into optimizing AI training efficiency and predicting future capabilities.
-   - *Link:* [DeepMind Scaling Laws and Compute Efficiency (2022)](https://arxiv.org/abs/2203.15556)
+   - *Link:* [DeepMind: Training Compute-Optimal Large Language Models (2022)](https://arxiv.org/abs/2203.15556)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/DeepMind-TrainCompute_2203.15556v1.pdf)
 
 23. **"DeepSeek Model Overview - R1" (2024) by Daya Guo et al**  
