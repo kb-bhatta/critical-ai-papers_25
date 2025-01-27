@@ -136,20 +136,26 @@ NeurIPS, Top Papers 2020-2024
 1. **"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"**
    - *Authors:* Keyu Tian et al.
    - *Summary:* This paper introduces a novel visual autoregressive (VAR) model that iteratively predicts images at progressively higher resolutions. The VAR model demonstrates superior performance in image generation, outperforming existing autoregressive models in efficiency and achieving results competitive with diffusion-based methods.
-   - *Link:* [NeurIPS 2024 Best Paper Awards](https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/)
-   - PDF in Repo: [PDF---]()
+   - *Link:* [NeurIPS 2024 Best Paper Awards](https://openreview.net/forum?id=gojL67CfS8)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Visual_Autoregressive_Mo-19076_.pdf)
 
 2. **"Stochastic Taylor Derivative Estimator: Efficient Amortization for Arbitrary Differential Operators"**
    - *Authors:* Zekun Shi, Zheyuan Hu, Min Lin, Kenji Kawaguchi
    - *Summary:* This work proposes a tractable approach to train neural networks using supervision that incorporates higher-order derivatives. The method provides significant speed-up and memory reduction over traditional approaches, enabling the solution of high-dimensional partial differential equations efficiently.
-   - *Link:* [NeurIPS 2024 Awards](https://neurips.cc/virtual/2024/awards_detail)
-   - PDF in Repo: [PDF---]()
-
+   - *Link:* [NeurIPS 2024 Awards](https://openreview.net/forum?id=J2wI2rCG2u)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Stochastic_Taylor_Deriva_14856.pdf)
+  
+- Datasets and Benchmarks Track:
 3. **"The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models"**
    - *Authors:* Hannah Rose Kirk et al.
    - *Summary:* This paper introduces the PRISM dataset, mapping the sociodemographics and stated preferences of 1,500 diverse participants to their contextual preferences and fine-grained feedback in interactions with large language models. The study provides insights into the subjective and multicultural alignment of these models.
-   - *Link:* [NeurIPS 2024 Awards](https://neurips.cc/virtual/2024/awards_detail)
-   - PDF in Repo: [PDF---]()
+   - *Link:* [NeurIPS 2024 Awards](https://openreview.net/forum?id=DFr5hteojx#discussion)
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/The_PRISM_Alignment_Datas_1310.pdf)
+ 
+- Runner Ups, Main Track
+  4.
+  
+  5. 
 
 **NeurIPS 2023 Best Paper Awards** [2023](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/)
 
