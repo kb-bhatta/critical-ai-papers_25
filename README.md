@@ -130,7 +130,8 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - PDF in Repo: [PDF---](https://github.com/link)
 
 NeurIPS, Top Papers 2020-2024
-**NeurIPS 2024 Best Paper Awards**
+
+**NeurIPS 2024 Best Paper Awards** [2024](https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/)
 
 1. **"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"**
    - *Authors:* Keyu Tian et al.
@@ -150,13 +151,13 @@ NeurIPS, Top Papers 2020-2024
    - *Link:* [NeurIPS 2024 Awards](https://neurips.cc/virtual/2024/awards_detail)
    - PDF in Repo: [PDF---]()
 
-**NeurIPS 2023 Best Paper Awards**
+**NeurIPS 2023 Best Paper Awards** [2023](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/)
 
-**NeurIPS 2022 Best Paper Awards**
+**NeurIPS 2022 Best Paper Awards** [2022](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/)
 
-**NeurIPS 2021 Best Paper Awards**
+**NeurIPS 2021 Best Paper Awards** [2021](https://nips.cc/virtual/2021/awards_detail)
 
-**NeurIPS 2020 Outstanding Paper Awards**
+**NeurIPS 2020 Best Paper Awards** [2020](https://nips.cc/virtual/2020/awards_detail)
 
 1. **"Rethinking 'Batch' in Batch Normalization"**
    - *Authors:* Simone Wu, Zhirong Wu, Yann LeCun
