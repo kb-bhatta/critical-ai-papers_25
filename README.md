@@ -188,3 +188,5 @@ NeurIPS, Top Papers 2020-2024
    - *Summary:* This work introduces Neural Tangents, a library designed to facilitate research and experimentation with infinite-width neural networks, providing tools to compute exact predictions of infinitely wide networks in practical scenarios.
    - *Link:* [NeurIPS 2020 Awards](https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537)
    - PDF in Repo: [PDF---]()
+  
+3. **"Language Models are Few-Shot Learners" by Tom B. Brown et al** (Represented in #8 above)
