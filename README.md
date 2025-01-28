@@ -131,7 +131,7 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
 24. **"JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation" (2024) Yiyang Ma et Al**  
    - *Summary:* Framework by Deepseek that unifies image understanding and generation in a single model. Predessor model to their JanusPro/Flow models for image generation. 
    - *Link:* [Janus Flow]([https://link.com](https://arxiv.org/abs/2411.07975))
-   - PDF in Repo: [JanusFlow (2024)](https://github.com/link)
+   - PDF in Repo: [JanusFlow (2024)](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/JanusFlow-2411.07975v1.pdf)
 
 25. **"----**  
    - *Summary:*  
