@@ -177,18 +177,19 @@ NeurIPS, Top Papers 2020-2024
 
 **NeurIPS 2020 Best Paper Awards** [2020](https://nips.cc/virtual/2020/awards_detail)
 
-1. "No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium" (2020) by Andrea Celli et al
+[Awards selection: 2020](https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537) 
+
+1. **"No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium" (2020) by Andrea Celli et al**
    - Summary:
-   - Link: https://arxiv.org/abs/2004.00603
+   - *Link:* [No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium" (2020](https://arxiv.org/abs/2004.00603)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/NoRegret_2004.00603v5.pdf)
 
-2. "Improved guarantees and a multiple-descent curve for Column Subset Selection and the Nyström method" (2020) by Michał Dereziński et al.
+2. **"Improved guarantees and a multiple-descent curve for Column Subset Selection and the Nyström method" (2020) by Michael Dereziński et al.**
    - Summary:
-   - Link: https://arxiv.org/abs/2002.09073
+   - *Link:* ["Improved guarantees and a multiple-descent curve for Column Subset Selection and the Nyström method" (2020)](https://arxiv.org/abs/2002.09073)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/ImprGaur_2002.09073v3.pdf)
 
-
-4. **"Language Models are Few-Shot Learners" by Tom B. Brown et al** (Represented in #8 above)
+3. **"Language Models are Few-Shot Learners" by Tom B. Brown et al** (Represented in #8 above)
 
 ?????
 ????
