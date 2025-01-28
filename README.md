@@ -128,7 +128,12 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Link:* [DeepSeek Model Overview (2024)](https://arxiv.org/html/2501.12948v1)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/DeepSeek_R1.pdf)
 
-24. **"----**  
+24. **"JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation" (2024) Yiyang Ma et Al**  
+   - *Summary:* Framework by Deepseek that unifies image understanding and generation in a single model. Predessor model to their JanusPro/Flow models for image generation. 
+   - *Link:* [Janus Flow]([https://link.com](https://arxiv.org/abs/2411.07975))
+   - PDF in Repo: [JanusFlow (2024)](https://github.com/link)
+
+25. **"----**  
    - *Summary:*  
    - *Link:* [Name](https://link.com)
    - PDF in Repo: [PDF---](https://github.com/link)
@@ -191,7 +196,7 @@ NeurIPS, Top Papers 2020-2024
 
 3. **"Language Models are Few-Shot Learners" by Tom B. Brown et al** (Represented in #8 above)
 
-?????
+????
 ????
  / **"Rethinking 'Batch' in Batch Normalization"**
    - *Authors:* Simone Wu, Zhirong Wu, Yann LeCun
