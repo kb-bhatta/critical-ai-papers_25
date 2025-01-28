@@ -176,21 +176,21 @@ NeurIPS, Top Papers 2020-2024
 **NeurIPS 2021 Best Paper Awards** [2021](https://nips.cc/virtual/2021/awards_detail)
 
 **NeurIPS 2020 Best Paper Awards** [2020](https://nips.cc/virtual/2020/awards_detail)
-?????
 
 1. "No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium" (2020) by Andrea Celli et al
    - Summary:
    - Link: https://arxiv.org/abs/2004.00603
-   - PDF -> 
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/NoRegret_2004.00603v5.pdf)
 
 2. "Improved guarantees and a multiple-descent curve for Column Subset Selection and the Nyström method" (2020) by Michał Dereziński et al.
    - Summary:
    - Link: https://arxiv.org/abs/2002.09073
-   - PDF -> 
+   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/ImprGaur_2002.09073v3.pdf)
 
 
 4. **"Language Models are Few-Shot Learners" by Tom B. Brown et al** (Represented in #8 above)
 
+?????
 ????
  / **"Rethinking 'Batch' in Batch Normalization"**
    - *Authors:* Simone Wu, Zhirong Wu, Yann LeCun
