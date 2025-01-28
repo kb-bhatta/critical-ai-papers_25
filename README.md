@@ -176,17 +176,32 @@ NeurIPS, Top Papers 2020-2024
 **NeurIPS 2021 Best Paper Awards** [2021](https://nips.cc/virtual/2021/awards_detail)
 
 **NeurIPS 2020 Best Paper Awards** [2020](https://nips.cc/virtual/2020/awards_detail)
+?????
 
-1. **"Rethinking 'Batch' in Batch Normalization"**
+1. "No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium" (2020) by Andrea Celli et al
+   - Summary:
+   - Link: https://arxiv.org/abs/2004.00603
+   - PDF -> 
+
+2. "Improved guarantees and a multiple-descent curve for Column Subset Selection and the Nyström method" (2020) by Michał Dereziński et al.
+   - Summary:
+   - Link: https://arxiv.org/abs/2002.09073
+   - PDF -> 
+
+
+4. **"Language Models are Few-Shot Learners" by Tom B. Brown et al** (Represented in #8 above)
+
+????
+ / **"Rethinking 'Batch' in Batch Normalization"**
    - *Authors:* Simone Wu, Zhirong Wu, Yann LeCun
    - *Summary:* This paper revisits the concept of batch normalization, proposing alternatives that address its limitations, particularly in scenarios with small batch sizes. The study offers theoretical insights and practical solutions to improve training stability and performance.
    - *Link:* [NeurIPS 2020 Awards](https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537)
    - PDF in Repo: [PDF---]()
 
-2. **"Neural Tangents: Fast and Easy Infinite Neural Networks in Python"**
+/ **"Neural Tangents: Fast and Easy Infinite Neural Networks in Python"**
    - *Authors:* Roman Novak, Lechao Xiao, Yasaman Bahri, Jaehoon Lee, Greg Yang, Jascha Sohl-Dickstein
    - *Summary:* This work introduces Neural Tangents, a library designed to facilitate research and experimentation with infinite-width neural networks, providing tools to compute exact predictions of infinitely wide networks in practical scenarios.
    - *Link:* [NeurIPS 2020 Awards](https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537)
    - PDF in Repo: [PDF---]()
   
-3. **"Language Models are Few-Shot Learners" by Tom B. Brown et al** (Represented in #8 above)
+
