@@ -197,6 +197,7 @@ NeurIPS, Top Papers 2020-2024
 3. **"Language Models are Few-Shot Learners" by Tom B. Brown et al** (Represented in #8 above)
 
 ????
+https://icml.cc/virtual/2024/awards_detail
 ????
  / **"Rethinking 'Batch' in Batch Normalization"**
    - *Authors:* Simone Wu, Zhirong Wu, Yann LeCun
