@@ -210,5 +210,8 @@ https://icml.cc/virtual/2024/awards_detail
    - *Summary:* This work introduces Neural Tangents, a library designed to facilitate research and experimentation with infinite-width neural networks, providing tools to compute exact predictions of infinitely wide networks in practical scenarios.
    - *Link:* [NeurIPS 2020 Awards](https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537)
    - PDF in Repo: [PDF---]()
+
+Ps. Janus Spaces @ HG: https://huggingface.co/spaces/deepseek-ai/Janus-Pro-7B
++ https://www.harmdevries.com/post/model-size-vs-compute-overhead/
   
 
