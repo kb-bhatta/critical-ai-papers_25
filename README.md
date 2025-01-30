@@ -200,21 +200,21 @@ NeurIPS, Top Papers 2020-2024
 https://icml.cc/virtual/2024/awards_detail
 ????]: #
 
-[
- / **"Rethinking 'Batch' in Batch Normalization"**
+
+/// / **"Rethinking 'Batch' in Batch Normalization"**
    - *Authors:* Simone Wu, Zhirong Wu, Yann LeCun
    - *Summary:* This paper revisits the concept of batch normalization, proposing alternatives that address its limitations, particularly in scenarios with small batch sizes. The study offers theoretical insights and practical solutions to improve training stability and performance.
    - *Link:* [NeurIPS 2020 Awards](https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537)
    - PDF in Repo: [PDF---]()
 
-/ **"Neural Tangents: Fast and Easy Infinite Neural Networks in Python"**
+/// / **"Neural Tangents: Fast and Easy Infinite Neural Networks in Python"**
    - *Authors:* Roman Novak, Lechao Xiao, Yasaman Bahri, Jaehoon Lee, Greg Yang, Jascha Sohl-Dickstein
    - *Summary:* This work introduces Neural Tangents, a library designed to facilitate research and experimentation with infinite-width neural networks, providing tools to compute exact predictions of infinitely wide networks in practical scenarios.
    - *Link:* [NeurIPS 2020 Awards](https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537)
    - PDF in Repo: [PDF---]()
-]: #
 
-[Ps. Janus Spaces @ HG: https://huggingface.co/spaces/deepseek-ai/Janus-Pro-7B
-+ https://www.harmdevries.com/post/model-size-vs-compute-overhead/]: #
+[Ps. Janus Spaces @ HG: https://huggingface.co/spaces/deepseek-ai/Janus-Pro-7B ]: #
+
+[+ https://www.harmdevries.com/post/model-size-vs-compute-overhead/]: #
   
 
