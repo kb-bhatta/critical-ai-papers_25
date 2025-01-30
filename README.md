@@ -196,9 +196,11 @@ NeurIPS, Top Papers 2020-2024
 
 3. **"Language Models are Few-Shot Learners" by Tom B. Brown et al** (Represented in #8 above)
 
-????
+[????
 https://icml.cc/virtual/2024/awards_detail
-????
+????]: #
+
+
  / **"Rethinking 'Batch' in Batch Normalization"**
    - *Authors:* Simone Wu, Zhirong Wu, Yann LeCun
    - *Summary:* This paper revisits the concept of batch normalization, proposing alternatives that address its limitations, particularly in scenarios with small batch sizes. The study offers theoretical insights and practical solutions to improve training stability and performance.
