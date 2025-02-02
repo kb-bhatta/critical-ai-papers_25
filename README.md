@@ -218,56 +218,55 @@ https://icml.cc/virtual/2024/awards_detail
 [+ https://www.harmdevries.com/post/model-size-vs-compute-overhead/]: #
 
 /// /
-[
-1. **"PaLM: Scaling Language Modeling with Pathways" (2022) by Anselm Levskaya et al.**
+
+
+[ 1. **"PaLM: Scaling Language Modeling with Pathways" (2022) by Anselm Levskaya et al.** ]: #
    - *Summary:* Google Research introduced the Pathways Language Model (PaLM), demonstrating how large-scale models can achieve significant performance across multiple NLP benchmarks while improving efficiency with sparsely activated pathways. [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
    - *Link:* ["PaLM: Scaling Language Modeling with Pathways" (2022)](https://arxiv.org/abs/2204.02311)
    - PDF in Repo: [PDF](<Open Link after I upload PDF>)
 
-2. **"Chinchilla: Training Compute-Optimal Large Language Models" (2022) by Jordan Hoffman et al. (DeepMind)**
+[ 2. **"Chinchilla: Training Compute-Optimal Large Language Models" (2022) by Jordan Hoffman et al. (DeepMind)** ]: #
    - *Summary:* This paper presented a compute-optimal scaling law for training large language models, showing that smaller models trained on more data outperform larger models trained on limited data. [Chinchilla Scaling Laws](https://arxiv.org/abs/2203.15556)
    - *Link:* ["Chinchilla: Training Compute-Optimal Large Language Models" (2022)](https://arxiv.org/abs/2203.15556)
    - PDF in Repo: [PDF](<Open Link after I upload PDF>)
 
-3. **"GPT-4 Technical Report" (2023) by OpenAI**
+[ 3. **"GPT-4 Technical Report" (2023) by OpenAI** ]: #
    - *Summary:* The paper outlines the capabilities and architecture of GPT-4, highlighting improvements over GPT-3.5 in reasoning, factual correctness, and safety measures. [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
    - *Link:* ["GPT-4 Technical Report" (2023)](https://arxiv.org/abs/2303.08774)
    - PDF in Repo: [PDF](<Open Link after I upload PDF>)
 
-4. **"Mixture of Experts Models" (2022) by Noam Shazeer et al.**
+[ 4. **"Mixture of Experts Models" (2022) by Noam Shazeer et al.** ]: #
    - *Summary:* Introduces the mixture of experts (MoE) approach, which allows efficient scaling of transformer models by selectively activating subsets of parameters during inference. [Mixture of Experts](https://arxiv.org/abs/2206.05964)
    - *Link:* ["Mixture of Experts Models" (2022)](https://arxiv.org/abs/2206.05964)
    - PDF in Repo: [PDF](<Open Link after I upload PDF>)
 
-5. **"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks" (2020) by Patrick Lewis et al.**
+[ 5. **"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks" (2020) by Patrick Lewis et al.** ]: #
    - *Summary:* Introduced the retrieval-augmented generation (RAG) model, which integrates external knowledge retrieval into generative models to improve factual consistency. [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)
    - *Link:* ["Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks" (2020)](https://arxiv.org/abs/2005.11401)
    - PDF in Repo: [PDF](<Open Link after I upload PDF>)
 
-6. **"Gato: A Generalist Agent" (2022) by DeepMind**
+[ 6. **"Gato: A Generalist Agent" (2022) by DeepMind** ]: #
    - *Summary:* Introduces Gato, a single transformer model capable of performing hundreds of tasks across various domains, from text and vision to robotics. [Gato: A Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
    - *Link:* ["Gato: A Generalist Agent" (2022)](https://www.deepmind.com/publications/a-generalist-agent)
    - PDF in Repo: [PDF](<Open Link after I upload PDF>)
 
-7. **"Phi-2: Advancing Small Language Models" (2023) by Microsoft Research**
+[ 7. **"Phi-2: Advancing Small Language Models" (2023) by Microsoft Research** ]: #
    - *Summary:* Demonstrates how smaller language models (like Phi-2) trained with synthetic data can achieve performance comparable to much larger models. [Phi-2 Model](https://www.microsoft.com/en-us/research/blog/phi-2-an-optimized-2-7b-language-model/)
    - *Link:* ["Phi-2: Advancing Small Language Models" (2023)](https://www.microsoft.com/en-us/research/blog/phi-2-an-optimized-2-7b-language-model/)
    - PDF in Repo: [PDF](<Open Link after I upload PDF>)
 
-8. **"Aligning Language Models to Human Values with RLHF" (2022) by OpenAI**
+[ 8. **"Aligning Language Models to Human Values with RLHF" (2022) by OpenAI** ]: #
    - *Summary:* Discusses reinforcement learning from human feedback (RLHF) to align large language models with human preferences, improving safety and response quality. [RLHF and Alignment](https://arxiv.org/abs/2009.01325)
    - *Link:* ["Aligning Language Models to Human Values with RLHF" (2022)](https://arxiv.org/abs/2009.01325)
    - PDF in Repo: [PDF](<Open Link after I upload PDF>)
 
-9. **"Diffusion Models Beat GANs on Image Synthesis" (2021) by Prafulla Dhariwal et al.**
+[ 9. **"Diffusion Models Beat GANs on Image Synthesis" (2021) by Prafulla Dhariwal et al.** ]: #
    - *Summary:* Showed how diffusion models outperform GANs on various image synthesis benchmarks, leading to their widespread adoption in generative AI. [Diffusion Models Beat GANs](https://arxiv.org/abs/2105.05233)
    - *Link:* ["Diffusion Models Beat GANs on Image Synthesis" (2021)](https://arxiv.org/abs/2105.05233)
    - PDF in Repo: [PDF](<Open Link after I upload PDF>)
 
-10. **"Gemini 1: The Next Generation Multimodal AI" (2023) by Google DeepMind**
+[ 10. **"Gemini 1: The Next Generation Multimodal AI" (2023) by Google DeepMind** ]: #
    - *Summary:* Introduced Gemini 1, a multimodal AI system capable of processing and reasoning across text, image, and video inputs, advancing beyond previous LLMs. [Gemini 1 Technical Report](https://deepmind.google/technologies/gemini/)
    - *Link:* ["Gemini 1: The Next Generation Multimodal AI" (2023)](https://deepmind.google/technologies/gemini/)
    - PDF in Repo: [PDF](<Open Link after I upload PDF>)
-
-]: #
 
