@@ -226,6 +226,7 @@ NeurIPS, Top Papers 2020-2024
    - *Summary:*  This paper proposes an alternative (Autoguidance) to classifier free guidance (CFG) in the context of text-2-image (T2I) models. CFG is a guidance technique (a correction in diffusion trajectories) that is extensively used by practitioners to obtain better prompt alignment and higher-quality images, that Autoguidance could improve. This change leads to notable improvements in diversity and image quality.
    - *Link:* [NeurIPS 2024 Awards](https://openreview.net/forum?id=bg6fVPVs3s)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Guiding_a_Diffusion_Mode_10530.pdf)
+  
 
 
 **NeurIPS 2023 Best Paper Awards** [2023](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/)
