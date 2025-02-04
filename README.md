@@ -206,14 +206,16 @@ NeurIPS, Top Papers 2020-2024
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Stochastic_Taylor_Deriva_14856.pdf)
   
 *- Datasets and Benchmarks Track:*
+
 3. **"The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models"**
    - *Authors:* Hannah Rose Kirk et al.
    - *Summary:* This paper introduces the PRISM dataset, mapping the sociodemographics and stated preferences of 1,500 diverse participants to their contextual preferences and fine-grained feedback in interactions with large language models. The study provides insights into the subjective and multicultural alignment of these models.
    - *Link:* [NeurIPS 2024 Awards](https://openreview.net/forum?id=DFr5hteojx#discussion)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/The_PRISM_Alignment_Datas_1310.pdf)
- 
+  
 *- Runner Ups, Main Track:*
-4.**"Not All Tokens Are What You Need for Pretraining"**
+
+4.  **"Not All Tokens Are What You Need for Pretraining"**
    - *Authors:* Zhenghao Lin et al.
    - *Summary:* This paper presents a simple method to filter pre-training data when training large language models (LLM)
    - *Link:* [NeurIPS 2024, Runner Up](https://openreview.net/forum?id=0NMzBwqaAJ)
@@ -224,6 +226,8 @@ NeurIPS, Top Papers 2020-2024
    - *Summary:*  This paper proposes an alternative (Autoguidance) to classifier free guidance (CFG) in the context of text-2-image (T2I) models. CFG is a guidance technique (a correction in diffusion trajectories) that is extensively used by practitioners to obtain better prompt alignment and higher-quality images, that Autoguidance could improve. This change leads to notable improvements in diversity and image quality.
    - *Link:* [NeurIPS 2024 Awards](https://openreview.net/forum?id=bg6fVPVs3s)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Guiding_a_Diffusion_Mode_10530.pdf)
+  
+
 
 **NeurIPS 2023 Best Paper Awards** [2023](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/)
 
