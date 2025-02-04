@@ -215,7 +215,7 @@ NeurIPS, Top Papers 2020-2024
  
 *- Runner Ups, Main Track:*
 
-4.**"Not All Tokens Are What You Need for Pretraining"**
+4. **"Not All Tokens Are What You Need for Pretraining"**
    - *Authors:* Zhenghao Lin et al.
    - *Summary:* This paper presents a simple method to filter pre-training data when training large language models (LLM)
    - *Link:* [NeurIPS 2024, Runner Up](https://openreview.net/forum?id=0NMzBwqaAJ)
