@@ -206,6 +206,7 @@ NeurIPS, Top Papers 2020-2024
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Stochastic_Taylor_Deriva_14856.pdf)
   
 *- Datasets and Benchmarks Track:*
+
 3. **"The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models"**
    - *Authors:* Hannah Rose Kirk et al.
    - *Summary:* This paper introduces the PRISM dataset, mapping the sociodemographics and stated preferences of 1,500 diverse participants to their contextual preferences and fine-grained feedback in interactions with large language models. The study provides insights into the subjective and multicultural alignment of these models.
