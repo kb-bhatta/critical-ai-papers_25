@@ -154,6 +154,8 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Link:* ["Mixture of Experts Models" (2022)](https://arxiv.org/abs/2206.05964)
    - PDF in Repo: [PDF](<Open Link after I upload PDF>)
 
+// 2.15.25
+
 29. **"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks" (2020) by Patrick Lewis et al.**
    - *Summary:* Introduced the retrieval-augmented generation (RAG) model, which integrates external knowledge retrieval into generative models to improve factual consistency. [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)
    - *Link:* ["Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks" (2020)](https://arxiv.org/abs/2005.11401)
