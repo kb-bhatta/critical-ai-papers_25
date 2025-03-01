@@ -5,7 +5,6 @@ __Order is of papers read/finished, not indicative of their timeline nor relativ
 -> 02.28.25*
 
 Pivotal papers including Transformers Architecture (Attention is All You Need), Early ChatGPT papers, Chain of Thought, etc.
-
 0. **"Scaling Laws for Neural Language Models" (2020) by Jared Kaplan et al.**
    - *Summary:* This paper investigates how the performance of neural language models improves as model size, dataset size, and compute resources increase. The authors establish empirical scaling laws, showing that loss decreases predictably with increased resources following a power-law relationship. (The writers of this paper continued work at OpenAI and later founding Anthropic upon establishing the NL scaling laws, recommending need for GPUs, data, and training.)
    - *Link:* ["Scaling Laws for Neural Language Models" (2020)](https://arxiv.org/abs/2001.08361)
@@ -237,7 +236,7 @@ NeurIPS, Top Papers 2020-2024
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Guiding_a_Diffusion_Mode_10530.pdf)
   
 
-
+// Update to link and prioritize.
 **NeurIPS 2023 Best Paper Awards** [2023](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/)
 
 **NeurIPS 2022 Best Paper Awards** [2022](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/)
