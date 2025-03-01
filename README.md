@@ -56,10 +56,10 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
     -  *Link:* [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
     - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/CoT_Responses_2201.11903v6.pdf)
 
-11. **"Self-Consistency Improves Chain of Thought Reasoning in Language Models" (2022) by Xuezhi Wang et al.**  
-   - *Summary:* Proposed a new decoding strategy called self-consistency, which samples multiple reasoning paths and selects the most consistent answer, further enhancing the performance of chain-of-thought prompting in large language models across various reasoning benchmarks.  
-   - *Link:* [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
-   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Self-Consistency_CoT_2203.11171v4.pdf)
+10. **"Self-Consistency Improves Chain of Thought Reasoning in Language Models" (2022) by Xuezhi Wang et al.**
+    - *Summary:* Proposed a new decoding strategy called self-consistency, which samples multiple reasoning paths and selects the most consistent answer, further enhancing the performance of chain-of-thought prompting in large language models across various reasoning benchmarks.
+    - *Link:* [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
+    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Self-Consistency_CoT_2203.11171v4.pdf)
 
 11. **"The Lottery Ticket Hypothesis" (2019) by Jonathan Frankle et al"**  
    - *Summary:* The paper presents the "lottery ticket hypothesis," which suggests that within large neural networks exist smaller, sparse subnetworks that, when initialized correctly, can achieve comparable performance to the full network.
