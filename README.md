@@ -2,7 +2,7 @@
 Collection of Critical AI Papers and research.
 __Order is of papers read/finished, not indicative of their timeline nor relative importance.__
 *-last update 12.01.24->
--> 2.28.25*
+-> 02.28.25*
 
 Pivotal papers including Transformers Architecture (Attention is All You Need), Early ChatGPT papers, Chain of Thought, etc.
 
@@ -130,6 +130,8 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Link:* [DeepSeek Model Overview (2024)](https://arxiv.org/html/2501.12948v1)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/DeepSeek_R1.pdf)
 
+// 02.01.2025
+
 24. **"JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation" (2024) Yiyang Ma et Al**  
    - *Summary:* Framework by Deepseek that unifies image understanding and generation in a single model. Predessor model to their JanusPro/Flow models for image generation. 
    - *Link:* [Janus Flow]([https://link.com](https://arxiv.org/abs/2411.07975))
@@ -155,7 +157,7 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Link:* ["Mixture of Experts Models" (2022)](https://arxiv.org/abs/2206.05964)
    - PDF in Repo: [PDF](<Open Link after I upload PDF>)
 
-// 2.15.25
+// 02.15.25
 
 29. **"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks" (2020) by Patrick Lewis et al.**
    - *Summary:* Introduced the retrieval-augmented generation (RAG) model, which integrates external knowledge retrieval into generative models to improve factual consistency. [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)
@@ -166,6 +168,8 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Summary:* Introduces Gato, a single transformer model capable of performing hundreds of tasks across various domains, from text and vision to robotics. [Gato: A Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
    - *Link:* ["Gato: A Generalist Agent" (2022)](https://www.deepmind.com/publications/a-generalist-agent)
    - PDF in Repo: [PDF](<Open Link after I upload PDF>)
+
+// 02.28.25
 
 31. **"Phi-2: Advancing Small Language Models" (2023) by Microsoft Research**
    - *Summary:* Demonstrates how smaller language models (like Phi-2) trained with synthetic data can achieve performance comparable to much larger models. [Phi-2 Model](https://www.microsoft.com/en-us/research/blog/phi-2-an-optimized-2-7b-language-model/)
