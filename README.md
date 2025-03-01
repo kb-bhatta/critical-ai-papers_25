@@ -51,12 +51,12 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Link:* [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/FewShot-GPT_2005.14165v4.pdf)
 
-9. **"Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" (2022) by Jason Wei et al.**  
-   - *Summary:* Demonstrated that prompting large language models with a chain of thought—a series of intermediate reasoning steps—significantly enhances their ability to perform complex reasoning tasks, leading to improved performance in arithmetic, commonsense, and symbolic reasoning.  
-   - *Link:* [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
-   - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/CoT_Responses_2201.11903v6.pdf)
+9. **"Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" (2022) by Jason Wei et al.**
+    - *Summary:* Demonstrated that prompting large language models with a chain of thought—a series of intermediate reasoning steps—significantly enhances their ability to perform complex reasoning tasks, leading to improved performance in arithmetic, commonsense, and symbolic reasoning.
+    -  *Link:* [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/CoT_Responses_2201.11903v6.pdf)
 
-10. **"Self-Consistency Improves Chain of Thought Reasoning in Language Models" (2022) by Xuezhi Wang et al.**  
+11. **"Self-Consistency Improves Chain of Thought Reasoning in Language Models" (2022) by Xuezhi Wang et al.**  
    - *Summary:* Proposed a new decoding strategy called self-consistency, which samples multiple reasoning paths and selects the most consistent answer, further enhancing the performance of chain-of-thought prompting in large language models across various reasoning benchmarks.  
    - *Link:* [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Self-Consistency_CoT_2203.11171v4.pdf)
