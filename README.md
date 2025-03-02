@@ -189,6 +189,10 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Summary:* Introduced Gemini 1, a multimodal AI system capable of processing and reasoning across text, image, and video inputs, advancing beyond previous LLMs. [Gemini 1 Technical Report](https://deepmind.google/technologies/gemini/)
    - *Link:* ["Gemini 1: The Next Generation Multimodal AI" (2023)](https://deepmind.google/technologies/gemini/)
    - PDF in Repo: [PDF](<Open Link after I upload PDF>)
+   - 
+
+// 03.01.2025
+35., Onwards ->
 
 /// / Sample
 **. **"----**  
