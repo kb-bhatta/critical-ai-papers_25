@@ -3,6 +3,7 @@ Collection of Critical AI Papers and research.
 __Order is of papers read/finished, not indicative of their timeline nor relative importance.__
 *-last update 12.01.24->
 -> 02.28.25*
+-> 03.02.25
 
 Pivotal papers including Transformers Architecture (Attention is All You Need), Early ChatGPT papers, Chain of Thought, etc.
 0. **"Scaling Laws for Neural Language Models" (2020) by Jared Kaplan et al.**
