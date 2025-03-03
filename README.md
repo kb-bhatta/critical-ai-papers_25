@@ -67,6 +67,8 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Link:* [The Lottery Ticket Hypothesis (2019)](https://arxiv.org/abs/1803.03635)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/LotteryTicketHypothesis_1803.03635v5.pdf)
 
+// 01.10.25
+
 12. **"On Calibration of Modern Neural Networks" (2017) by Chuan Guo et al**  
    - *Summary:*  The study examines the reliability of neural networks' confidence estimates, revealing that while modern networks achieve high accuracy, they tend to be poorly calibrated, leading to overconfidence in incorrect predictions.
    - *Link:* [On Calibration of Modern Neural Networks (2017)](https://arxiv.org/abs/1706.04599)
