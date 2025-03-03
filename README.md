@@ -112,6 +112,8 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Link:* [Understanding Chain-of-Thought Prompting (2022)](https://arxiv.org/abs/2212.10001)
    - PDF in Repo: [PDF](https://github.com/kaybeeinc/critical-ai-papers_25/blob/main/Understanding-CoT_2212.10001v2.pdf)
 
+// 01.20.25
+
 20. **"Class Imbalance and Deep Learning" (2017) by Mateusz Buda**  
    - *Summary:* This paper analyzes the impact of class imbalance on deep neural networks, highlighting how imbalance can significantly degrade performance and proposing techniques to mitigate its effects.
    - *Link:* [Class Imbalance and Deep Learning (2017)](https://arxiv.org/abs/1710.05381)
