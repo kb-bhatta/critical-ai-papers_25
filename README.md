@@ -197,6 +197,7 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - 
 
 // 03.01.2025
+
 35., Onwards ->
 
 /// / Sample
@@ -287,10 +288,9 @@ https://icml.cc/virtual/2024/awards_detail
    - PDF in Repo: [PDF---]()
 
 [Ps. Janus Spaces @ HG: https://huggingface.co/spaces/deepseek-ai/Janus-Pro-7B ]: #
-
 [+ https://www.harmdevries.com/post/model-size-vs-compute-overhead/]: #
-
 [ https://situational-awareness.ai/?ref=forourposterity.com ]: #
+
 [ * ]: #
 [ * ]: #
 [ * ]: #
