@@ -5,6 +5,7 @@ __Order is of papers read/finished, not indicative of their timeline nor relativ
 -> 02.28.25*
 -> 03.02.25
 -> 03.15.25
+To Date
 
 Pivotal papers including Transformers Architecture (Attention is All You Need), Early ChatGPT papers, Chain of Thought, etc.
 0. **"Scaling Laws for Neural Language Models" (2020) by Jared Kaplan et al.**
