@@ -196,11 +196,17 @@ Pivotal papers including Transformers Architecture (Attention is All You Need), 
    - *Summary:* Introduced Gemini 1, a multimodal AI system capable of processing and reasoning across text, image, and video inputs, advancing beyond previous LLMs. [Gemini 1 Technical Report](https://deepmind.google/technologies/gemini/)
    - *Link:* ["Gemini 1: The Next Generation Multimodal AI" (2023)](https://deepmind.google/technologies/gemini/)
    - PDF in Repo: [PDF](<Open Link after I upload PDF>)
-   - 
 
 // 03.01.2025
 
-35., Onwards ->
+35. **"Machines of Loving Grace" by Dario Amodei**  
+   - *Summary:*  A thesis on AGI, a world with machine "geniuses" and life with advanced AI.
+   - *Link:* [Machines Of Loving Grace](https://darioamodei.com/machines-of-loving-grace)
+   - PDF in Repo: N/A
+
+// 03.29.2025
+
+36. Onwards ->
 
 /// / Sample
 **. **"----**  
