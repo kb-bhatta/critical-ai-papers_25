@@ -283,6 +283,7 @@ NeurIPS, Top Papers 2020-2024
 https://icml.cc/virtual/2024/awards_detail
 ????]: #
 
+// Update 4.10.25
 
 /// / **"Rethinking 'Batch' in Batch Normalization"**
    - *Authors:* Simone Wu, Zhirong Wu, Yann LeCun
